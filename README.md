@@ -3,3 +3,5 @@
 ## Integrantes:
 ### Lucio Martin Meligeni
 ### Nicolas Serafini
+### Maria Menin
+### Uma De Mugica
